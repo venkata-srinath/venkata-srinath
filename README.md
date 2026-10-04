@@ -45,4 +45,4 @@ Building a career in embedded systems and electronics engineering, with a focus 
 ---
 
 📫 **Connect with me:**  
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/venkata-srinath-g-5b0b22228?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[LinkedIn](https://www.linkedin.com/in/venkata-srinath-g-5b0b22228/)
